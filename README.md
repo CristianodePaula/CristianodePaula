@@ -2,6 +2,7 @@
 
  <p> 💻 Sou apaixonado pelo desenvolvimento de software no front-end </p>
  <p> 📖 Atualmente estudando back-end visando atuar de forma fullstack </p>
+ 
 
 <div align="center">
   <a href="https://github.com/CristianodePaula">

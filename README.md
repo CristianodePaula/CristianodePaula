@@ -1,16 +1,16 @@
-### Ola! Meu nome é Cristiano de Paula 🖐️
+# Hello! My name is Cristiano de Paula 🖐️
 
- <p> 💻 Sou apaixonado pelo desenvolvimento de software no front-end </p>
- <p> 📖 Atualmente estudando back-end visando atuar de forma fullstack </p>
+ <p> 🙍‍♂️ I live in Contagem/MG Brazil</p>
+ <p> 💻 I'm passionate about software development</p>
+ <p> 📖 I work on the front-endp and back-end seeking fullstack development </p>
  
-
 <div align="center">
   <a href="https://github.com/CristianodePaula">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianodePaula&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianodePaula&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CristianodePaula&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianodePaula&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-## Tecnologias que utilizo diariamente
+## 🛠️ Technologies I use daily
   
   <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,7 +23,7 @@
   
   <br/>
     
-## Tecnologias que estudo atualmente 
+## 👨‍🎓 Technologies I am currently learning and using 
     
   <div style="display: inline_block"><br/>
    <img align="center" alt="Express" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -31,4 +31,14 @@
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     </div>
+ 
+ ## 📟 Social Networks
 
+
+<div>
+	<a href="https://www.linkedin.com/in/cristiano-de-paula-moreira-72586a173/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="christianodipaulla@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.facebook.com/christianpaul.bastion" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/chrisdipaulla/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+</div>

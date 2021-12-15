@@ -2,7 +2,8 @@
 
  <p> 🙍‍♂️ I live in Contagem/MG Brazil</p>
  <p> 💻 I'm passionate about software development</p>
- <p> 📖 I work on the front-endp and back-end seeking fullstack development </p>
+ <p> 👊 I work on the front-end and back-end seeking fullstack development </p>
+ <p> 📖 Currently deepening into MERN stack </p>
  
 <div align="center">
   <a href="https://github.com/CristianodePaula">

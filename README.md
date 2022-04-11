@@ -19,6 +19,8 @@
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 	  <img align="center" alt="React-Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+	      <img align="center" alt="typescript" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+    <img align="center" alt="typescript" src="https://user-images.githubusercontent.com/91747232/142298782-d299cf70-6fc5-4953-a894-a2fbb63004c0.jpg" width="100px" height="28px">
     <img align="center" alt="material-ui" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
   </div>
   

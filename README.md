@@ -3,8 +3,7 @@
  <p> 🙍‍♂️ I live in Brazil</p>
  <p> 🥰 am passionate about software development, technology, science, literature, arts and genk culture.</p>
  <p> 👊 I work with full stack development using MERN technologies and agile methodologies (Scrum and Kanban). </p>
- <p> 💻 I'm currently working on the full stack development of a social network for animal adoption. </p>
- <p> 📖 I'm slowly writing a ebook on web development. In it I deal with subjects such as algorithms, database, javascript, react, node etc. </p>
+ <p> 📖 I'm writing a ebook on web development. In it I deal with subjects such as algorithms, database, javascript, react, node etc. </p>
  
  
 <div align="center">
@@ -43,10 +42,8 @@
     <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img align="center" alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   </div>
-
  
  ## 📟 Social Networks
-
 
 <div>
   <a href="https://www.linkedin.com/in/cristiano-de-paula-moreira-72586a173/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

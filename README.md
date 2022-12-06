@@ -1,6 +1,7 @@
 # Hello! My name is Cristiano de Paula 🖐️
 
  <p> 🙍‍♂️ I live in Brazil</p>
+ <p> Front-End develop in Jurify - legal controllership </p>
  <p> 🥰 am passionate about software development, technology, science, literature, arts and genk culture.</p>
  <p> 👊 I work with full stack development using MERN technologies and agile methodologies (Scrum and Kanban). </p>
  <p> 📖 I'm writing a ebook on web development. In it I deal with subjects such as algorithms, database, javascript, react, node etc. </p>

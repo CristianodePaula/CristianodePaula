@@ -2,8 +2,8 @@
 
  <p> 🙍‍♂️ I live in Brazil</p>
  <p> 🥰 am passionate about software development, technology, science, literature, arts and genk culture.</p>
- <p> 👊 I work with full stack development using MERN technologies and agile methodologies (Scrum and Kanban). </p>
- <p> 📖 I'm writing a ebook on web development. In it I deal with subjects such as algorithms, database, javascript, react, node etc. </p>
+ <p> 👊 Manager, Software Engineer, FullStack Developer, Devops and Design UX UI. </p>
+ <p> 📖 I'm writing a ebook on web development. In it I deal with subjects such as algorithms, database, I.A etc. </p>
  
  
 <div align="center">
